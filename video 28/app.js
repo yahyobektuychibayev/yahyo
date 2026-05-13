@@ -1,5 +1,9 @@
 // TDZ - temporary dead zone => vaqtinchalik o'lik zo'na
 // const va let ni e'lon qilinishdan oldin ishlatolmaymiz.
+// console.log(age)
+// let age = 24
 
-let age = 24
-console.log(age)
+
+
+// console.log(ages);
+// var ages = 24
